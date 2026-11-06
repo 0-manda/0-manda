@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="assets/three" width="100%" alt="My gothic little corner" />
+<img src="assets/three" width="100%" alt="Black Lodge" />
 
 <br/>
 
