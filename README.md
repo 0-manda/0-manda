@@ -4,10 +4,12 @@
 -->
 
 <div align="center">
-
-<img src="./assets/black-lodge-horse.jpg" width="100%" alt="The white horse in the Black Lodge" />
-
-<br/>
+  <img
+    src="assets/black-lodge-horse.jpg"
+    width="100%"
+    alt="The White Horse — Black Lodge"
+  />
+</div>
 
 # 0-manda
 
