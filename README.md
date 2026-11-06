@@ -1,56 +1,56 @@
-<div align="center">
+ <div align="center">
 
 <img src="assets/assets/black-lodge-horse.jpg" width="100%" alt="The White Horse — Black Lodge" />
 
 <br/>
 
-# $\color{#A64D5A}{\textsf{0-manda}}$
+# 0-manda
 
-### $\color{#9D737C}{\textsf{The owls are not what they seem.}}$
+**The owls are not what they seem.**
 
-$\color{#9D737C}{\textit{Somewhere between code, data and the unknown.}}$
+*Somewhere between code, data and the unknown.*
 
 <br/>
 
-<img src="https://img.shields.io/badge/01-THE%20INVESTIGATOR-3B171F?style=flat-square" />
-<img src="https://img.shields.io/badge/02-THE%20TOOLS-3B171F?style=flat-square" />
-<img src="https://img.shields.io/badge/03-THE%20INVESTIGATION-3B171F?style=flat-square" />
+![Investigator](https://img.shields.io/badge/01_THE_INVESTIGATOR-3B171F?style=flat-square&labelColor=171315)
+![Tools](https://img.shields.io/badge/02_THE_TOOLS-3B171F?style=flat-square&labelColor=171315)
+![Investigation](https://img.shields.io/badge/03_THE_INVESTIGATION-3B171F?style=flat-square&labelColor=171315)
 
 </div>
 
 ---
 
-### $\color{#A64D5A}{\textsf{01 / THE INVESTIGATOR}}$
+### <img src="https://img.shields.io/badge/01-INVESTIGATOR-3B171F?style=flat-square" />
 
 Hello, I'm Amanda.
 
-I'm a $\color{#A64D5A}{\textbf{Data Science \& Artificial Intelligence student}}$ interested in software development, Natural Language Processing and the ways technology can help us understand the world.
+I'm a **Data Science & Artificial Intelligence student** interested in software development, Natural Language Processing and the ways technology can help us understand the world.
 
-Currently working with $\color{#A64D5A}{\textbf{AI and NLP}}$, exploring language models, intelligent systems and the connections between data and human communication.
+Currently working with **AI and NLP**, exploring language models, intelligent systems and the connections between data and human communication.
 
 I enjoy learning by building things, investigating problems and finding unexpected connections along the way.
 
 ---
 
-### $\color{#A64D5A}{\textsf{02 / THE TOOLS}}$
+### <img src="https://img.shields.io/badge/02-THE_TOOLS-3B171F?style=flat-square" />
 
-$\color{#9D737C}{\textbf{Languages}}$
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-211719?style=flat-square&logo=python&logoColor=C6A6AC)
 ![SQL](https://img.shields.io/badge/SQL-211719?style=flat-square&logo=postgresql&logoColor=C6A6AC)
 ![JavaScript](https://img.shields.io/badge/JavaScript-211719?style=flat-square&logo=javascript&logoColor=C6A6AC)
 ![C](https://img.shields.io/badge/C-211719?style=flat-square&logo=c&logoColor=C6A6AC)
 
-$\color{#9D737C}{\textbf{AI \& Development}}$
+**AI & Development**
 
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-49232D?style=flat-square&logoColor=E0C9CD)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-49232D?style=flat-square&logoColor=E0C9CD)
 ![LangChain](https://img.shields.io/badge/LangChain-49232D?style=flat-square&logo=chainlink&logoColor=E0C9CD)
 ![Ollama](https://img.shields.io/badge/Ollama-49232D?style=flat-square&logo=ollama&logoColor=E0C9CD)
 ![Git](https://img.shields.io/badge/Git-211719?style=flat-square&logo=git&logoColor=C6A6AC)
 
 ---
 
-### $\color{#A64D5A}{\textsf{03 / THE INVESTIGATION}}$
+### <img src="https://img.shields.io/badge/03-THE_INVESTIGATION-3B171F?style=flat-square" />
 
 A collection of experiments, academic projects and things I build while trying to understand how they work.
 
@@ -58,11 +58,11 @@ A collection of experiments, academic projects and things I build while trying t
 
 A web development and database project focused on creating an online blood center platform.
 
-$\color{#9D737C}{\textit{More investigations coming soon...}}$
+*More investigations coming soon...*
 
 ---
 
-### $\color{#A64D5A}{\textsf{04 / ACTIVITY LOG}}$
+### <img src="https://img.shields.io/badge/04-ACTIVITY_LOG-3B171F?style=flat-square" />
 
 <div align="center">
 
@@ -76,7 +76,7 @@ $\color{#9D737C}{\textit{More investigations coming soon...}}$
 
 <div align="center">
 
-$\color{#A64D5A}{\textit{"Is it future or is it past?"}}$
+*Is it future or is it past?*
 
 <sub>THE BLACK LODGE · 0-MANDA · EST. UNKNOWN</sub>
 
