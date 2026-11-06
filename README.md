@@ -12,9 +12,11 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/01-THE%20INVESTIGATOR-3B171F?style=flat-square" />
-<img src="https://img.shields.io/badge/02-THE%20TOOLS-3B171F?style=flat-square" />
-<img src="https://img.shields.io/badge/03-THE%20INVESTIGATION-3B171F?style=flat-square" />
+![Investigator](https://img.shields.io/badge/01_THE_INVESTIGATOR-3B171F?style=flat-square&labelColor=171315)
+
+![Tools](https://img.shields.io/badge/02_THE_TOOLS-3B171F?style=flat-square&labelColor=171315)
+
+![Investigation](https://img.shields.io/badge/03_THE_INVESTIGATION-3B171F?style=flat-square&labelColor=171315)
 
 </div>
 
