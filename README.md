@@ -5,7 +5,7 @@
 
 <div align="center">
   <img
-    src="assets/black-lodge-horse.jpg"
+    src="assets/assets/black-lodge-horse.jpg"
     width="100%"
     alt="The White Horse — Black Lodge"
   />
