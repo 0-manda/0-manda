@@ -1,26 +1,26 @@
  <div align="center">
 
-<img src="assets/assets/black-lodge-horse.jpg" width="100%" alt="The White Horse — Black Lodge" />
+<img src="assets/assets/three" width="100%" alt="My gothic little corner" />
 
 <br/>
 
-# 0-manda
+# ☆⋆｡𖦹°‧★ Amanda Piton ☆⋆｡𖦹°‧★                                               
 
-**The owls are not what they seem.**
+*The owls are not what they seem.*
 
 *Somewhere between code, data and the unknown.*
 
-<br/>
+☾ ⋆⁺₊⋆ ───────────── ⋆⁺₊⋆ ☽
 
-![Investigator](https://img.shields.io/badge/01_THE_INVESTIGATOR-3B171F?style=flat-square&labelColor=171315)
-![Tools](https://img.shields.io/badge/02_THE_TOOLS-3B171F?style=flat-square&labelColor=171315)
-![Investigation](https://img.shields.io/badge/03_THE_INVESTIGATION-3B171F?style=flat-square&labelColor=171315)
+🦉 **WELCOME TO MY LITTLE CORNER OF THE INTERNET** 🦉
+
+`[ about ]` · `[ projects ]` · `[ technologies ]`
 
 </div>
 
 ---
 
-### <img src="https://img.shields.io/badge/01-INVESTIGATOR-3B171F?style=flat-square" />
+### 🔮 01 / About me ★
 
 Hello, I'm Amanda.
 
@@ -30,27 +30,26 @@ Currently working with **AI and NLP**, exploring language models, intelligent sy
 
 I enjoy learning by building things, investigating problems and finding unexpected connections along the way.
 
----
+☾ ⋆⁺₊⋆
 
-### <img src="https://img.shields.io/badge/02-THE_TOOLS-3B171F?style=flat-square" />
+### 🕯️ 02 / THE TOOLS 𖦹
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-211719?style=flat-square&logo=python&logoColor=C6A6AC)
-![SQL](https://img.shields.io/badge/SQL-211719?style=flat-square&logo=postgresql&logoColor=C6A6AC)
-![JavaScript](https://img.shields.io/badge/JavaScript-211719?style=flat-square&logo=javascript&logoColor=C6A6AC)
-![C](https://img.shields.io/badge/C-211719?style=flat-square&logo=c&logoColor=C6A6AC)
+![Python](https://img.shields.io/badge/Python-555555?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-555555?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-555555?style=flat-square&logo=javascript&logoColor=white)
+![C](https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=white)
 
 **AI & Development**
 
-![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-49232D?style=flat-square&logoColor=E0C9CD)
-![LangChain](https://img.shields.io/badge/LangChain-49232D?style=flat-square&logo=chainlink&logoColor=E0C9CD)
-![Ollama](https://img.shields.io/badge/Ollama-49232D?style=flat-square&logo=ollama&logoColor=E0C9CD)
-![Git](https://img.shields.io/badge/Git-211719?style=flat-square&logo=git&logoColor=C6A6AC)
+![LangChain](https://img.shields.io/badge/LangChain-555555?style=flat-square&logo=chainlink&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-555555?style=flat-square&logo=ollama&logoColor=white)
+![Git](https://img.shields.io/badge/Git-555555?style=flat-square&logo=git&logoColor=white)
 
----
+☾ ⋆⁺₊⋆
 
-### <img src="https://img.shields.io/badge/03-THE_INVESTIGATION-3B171F?style=flat-square" />
+### 📜 03 / THE INVESTIGATION ☆
 
 A collection of experiments, academic projects and things I build while trying to understand how they work.
 
@@ -58,11 +57,11 @@ A collection of experiments, academic projects and things I build while trying t
 
 A web development and database project focused on creating an online blood center platform.
 
-*More investigations coming soon...*
+*More projects coming soon...* 🦉
 
----
+☾ ⋆⁺₊⋆
 
-### <img src="https://img.shields.io/badge/04-ACTIVITY_LOG-3B171F?style=flat-square" />
+### 🌙 04 / ACTIVITY LODGE 𖥔
 
 <div align="center">
 
@@ -76,8 +75,45 @@ A web development and database project focused on creating an online blood cente
 
 <div align="center">
 
-*Is it future or is it past?*
+☾
 
-<sub>THE BLACK LODGE · 0-MANDA · EST. UNKNOWN</sub>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡠⠠⢄⣀⣠⡤⢄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡤⣲⡭⡒⠉⠉⠁⠀⠀⠈⠑⠚⢭⣲⢄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡠⣒⡵⠟⠁⠂⢱⠂⠔⠊⠁⠀⠀⠀⠀⠙⠈⠓⢽⣢⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡰⣫⣾⡽⣢⣠⢠⣤⣴⣴⢆⢺⡚⣠⢔⠨⡣⠀⠀⠑⣄⠙⣝⢆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⢮⣞⣟⡝⢩⢹⣯⣿⣿⣟⢿⢿⢸⣇⣿⣷⢳⡈⢀⠀⢀⢸⢠⠈⢎⢆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⢣⢏⢸⢸⡇⣌⣼⣼⣧⢿⠻⢸⠘⣇⣿⠸⣿⠾⣿⡆⢣⠀⢆⡈⡆⠘⣎⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⢧⣿⢘⡎⢸⣡⠘⡜⠇⠘⠀⠀⠈⠛⠤⠈⠿⣭⠠⢨⣿⠀⡇⡞⡎⠉⡄⠸⡼⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣼⡿⡄⢷⢃⠱⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⠀⠘⠂⣾⣳⣇⠀⠐⡄⢳⢣⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡁⡿⡀⢱⣞⡄⠴⠰⠢⢤⡀⠀⠀⠀⠀⣠⠶⠚⠉⠑⠂⠀⠸⣿⣿⣦⡄⠁⠘⡟⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⢱⠇⣼⣾⣾⡇⢀⣀⣀⣀⣥⠀⠀⠀⢠⠁⣀⣤⣲⣤⡄⠀⠀⢿⣿⣿⡿⡄⠀⢳⢣⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢠⣄⡠⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⢸⡇⣸⣿⣿⠁⠻⠿⠿⠟⠋⠀⠀⠀⠀⠛⠻⠿⠿⠟⠁⠀⠀⢸⣿⣿⣿⣷⠈⠘⡞⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢰⢫⢥⡷⡷⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⢸⡇⣏⢿⣿⠀⠀⠀⠀⠀⢀⠀⠀⠀⣀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣏⡿⡸⠀⠀⢳⢣⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢸⡼⢀⡄⣇⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⡇⢿⣬⣿⡆⠀⠀⠀⢠⢮⡄⠀⢀⣈⡇⠀⠀⠀⠀⠀⠀⠀⢸⣿⡿⡱⢃⡇⢄⠸⣾⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⡠⡇⡌⡇⢸⢃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⢢⣇⣼⣿⣿⣧⠀⠀⠀⠀⠀⠃⠀⠈⠉⠀⠀⠀⠀⠀⠀⠀⠀⣽⣯⡞⠁⡾⠀⡄⠂⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⡇⡏⢙⢧⠈⢟⢄⠀⠀⣄⡤⣄⡀⠀⠀⠀⠈⢸⣿⣿⣿⣿⣿⡀⠀⠀⣴⣴⠮⠥⠭⠷⠦⢤⡀⠀⠀⠀⠀⢠⣿⣏⡀⢸⠁⢄⣇⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢱⢧⠘⠂⠇⠈⢦⢂⠀⣼⡛⠘⡾⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣧⠀⠀⠁⠈⠉⠉⠉⠀⠀⠀⠀⠀⠀⠀⢀⣾⣿⣿⠁⠸⠀⠠⠘⠀⡟⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠈⢏⢇⠀⠀⠀⠈⠳⡷⡡⢷⠒⢻⠆⠀⠀⢠⢸⣟⣿⣿⣿⣿⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣴⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⢳⢣⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠈⢫⢧⠀⠀⠸⣔⠉⠚⠚⠀⠘⡞⠄⠀⠈⢎⡛⣿⣿⣿⣿⣿⣿⣿⡷⡄⠀⠀⠀⠀⠀⠀⠀⠁⠀⠀⢹⣿⣿⣿⡆⠀⠀⠀⠀⢧⠈⢯⣣⡀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢫⣳⡀⠀⠈⠳⣄⠀⠀⠀⢹⣷⣂⣀⣀⣘⣼⣿⣿⣿⣿⣿⡿⠃⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⡇⡆⢀⠀⠀⠈⠁⠀⠱⣕⣄⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠱⡳⡀⠀⠀⠀⠑⠄⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⣿⣿⣿⣷⣿⣷⣄⣀⢀⡀⠳⠈⠻⣷⢄⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⠀⠀⠀⠀⠀⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣿⣿⣿⣿⣿⣿⣿⣿⣧⡝⠀⣜⠗⠈⠳⡷⡄⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠰⣴⣿⣿⣧⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⣬⣷⡳⡄⠘⡞⡄⠀
+⠀⢀⠄⠄⣀⣀⡀⠀⢳⣿⣿⣿⠓⠀⢤⣀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆⡇⡇⠀
+⠀⢸⢻⠙⣼⢺⢺⠢⣾⣿⣿⣿⢦⣂⠀⠈⠑⠺⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⡃⠀
+⢠⣨⣽⡆⠀⠜⢾⢸⣿⣿⣿⣧⠀⠈⠙⢲⡄⠀⠀⠈⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡌⠀
+⠈⠺⢝⡦⣔⣀⡀⠀⠉⠉⠉⠀⠀⠈⠉⠉⠙⠮⣀⠀⠀⠙⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆⠀⠀⠀⠀⢀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀
+⠀⠀⠀⠈⠫⣛⢧⣖⠂⠤⠤⠚⠀⢠⡠⠀⠀⠀⠊⠀⠀⠀⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠁
+⠀⠀⠀⠀⠀⢀⣼⣿⣿⣷⣦⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀
+⠀⠀⠀⠀⠀⢶⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⣄⡀⠀⠀⠀⠀⠀⠀⠀⢻⣿⣿⣿⣿⣿⣿⣷⠀⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⡄
+⠀⠀⠀⠀⡈⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⣦⡀⠀⠀⠀⠀⠀⠹⣿⣿⣿⣿⣿⣿⠀⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢿⠁
+⠀⠀⠀⢠⣹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⣀⣠⣶⣿⣿⣿⣿⣿⣿⣿⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⡎⠀
+⠀⠀⠀⠈⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠙⠛⠀⠀
+
+*"Is it future or is it past?"*
+
+🦉 ⋆｡°✩ 𖤐 ✩°｡⋆ 🦉
+
+<sub>THE LITTLE ARCHIVE · 0-MANDA · EST. UNKNOWN</sub>
 
 </div>
