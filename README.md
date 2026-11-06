@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="assets/three" width="100%" alt="Black Lodge" />
+<img src="assets/three.jpg" width="100%" alt="Black Lodge" />
 
 <br/>
 
