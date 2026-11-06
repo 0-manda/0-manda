@@ -19,6 +19,7 @@
 </div>
 
 ---
+<div align="center">
 
 ### 🔮 ⋆⭒˚.⋆ About me ⋆⭒˚.⋆
 
@@ -62,6 +63,7 @@ A web development and database project focused on creating an online blood cente
 ☾ ⋆⁺₊⋆
 
 ### 🌙 ⋆⭒˚.⋆ ACTIVITY LODGE ⋆⭒˚.⋆
+</div>
 
 <div align="center">
 
