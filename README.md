@@ -21,7 +21,7 @@
 ---
 <div align="center">
 
-### 🔮 ⋆⭒˚.⋆ About me ⋆⭒˚.⋆
+### 🔮 ⋆⭒˚.⋆ About me ⋆⭒˚.⋆ 🔮
 
 Hello, I'm Amanda.
 
@@ -33,7 +33,7 @@ I enjoy learning by building things, investigating problems and finding unexpect
 
 ☾ ⋆⁺₊⋆
 
-### 🕯️ ⋆⭒˚.⋆ THE TOOLS ⋆⭒˚.⋆
+### 🕯️ ⋆⭒˚.⋆ THE TOOLS ⋆⭒˚.⋆ 🕯️
 
 **Languages**
 
@@ -50,7 +50,7 @@ I enjoy learning by building things, investigating problems and finding unexpect
 
 ☾ ⋆⁺₊⋆
 
-### 📜 ⋆⭒˚.⋆ THE INVESTIGATION ⋆⭒˚.⋆
+### 📜 ⋆⭒˚.⋆ THE INVESTIGATION ⋆⭒˚.⋆ 📜
 
 A collection of experiments, academic projects and things I build while trying to understand how they work.
 
@@ -58,11 +58,11 @@ A collection of experiments, academic projects and things I build while trying t
 
 A web development and database project focused on creating an online blood center platform.
 
-*More projects coming soon...* 🦉
+🦉 *More projects coming soon...* 🦉
 
 ☾ ⋆⁺₊⋆
 
-### 🌙 ⋆⭒˚.⋆ ACTIVITY LODGE ⋆⭒˚.⋆
+### 🌙 ⋆⭒˚.⋆ ACTIVITY LODGE ⋆⭒˚.⋆ 🌙
 </div>
 
 <div align="center">
