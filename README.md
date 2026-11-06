@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="assets/three.jpg" width="100%" alt="Black Lodge" />
+<img src="assets/three.jpg" width="70%" alt="Black Lodge" />
 
 <br/>
 
@@ -65,9 +65,9 @@ A web development and database project focused on creating an online blood cente
 
 <div align="center">
 
-<img src="profile/stats.svg" width="95%" />
+<img src="profile/stats.svg" width="50%" />
 
-<img src="profile/top-langs.svg" width="70%" />
+<img src="profile/top-langs.svg" width="30%" />
 
 </div>
 
