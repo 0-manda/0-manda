@@ -20,7 +20,7 @@
 
 ---
 
-### 🔮 01 / About me ★
+### 🔮 ⋆⭒˚.⋆ About me ⋆⭒˚.⋆
 
 Hello, I'm Amanda.
 
@@ -32,7 +32,7 @@ I enjoy learning by building things, investigating problems and finding unexpect
 
 ☾ ⋆⁺₊⋆
 
-### 🕯️ 02 / THE TOOLS 𖦹
+### 🕯️ ⋆⭒˚.⋆ THE TOOLS ⋆⭒˚.⋆
 
 **Languages**
 
@@ -49,7 +49,7 @@ I enjoy learning by building things, investigating problems and finding unexpect
 
 ☾ ⋆⁺₊⋆
 
-### 📜 03 / THE INVESTIGATION ☆
+### 📜 ⋆⭒˚.⋆ THE INVESTIGATION ⋆⭒˚.⋆
 
 A collection of experiments, academic projects and things I build while trying to understand how they work.
 
@@ -61,7 +61,7 @@ A web development and database project focused on creating an online blood cente
 
 ☾ ⋆⁺₊⋆
 
-### 🌙 04 / ACTIVITY LODGE 𖥔
+### 🌙 ⋆⭒˚.⋆ ACTIVITY LODGE ⋆⭒˚.⋆
 
 <div align="center">
 
