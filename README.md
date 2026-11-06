@@ -65,9 +65,9 @@ A web development and database project focused on creating an online blood cente
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=0-manda&show_icons=true&hide_border=true&bg_color=00000000&title_color=9D737C&text_color=9D8589&icon_color=9D737C" width="95%" />
+<img src="profile/stats.svg" width="95%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0-manda&layout=compact&hide_border=true&bg_color=00000000&title_color=9D737C&text_color=9D8589" width="70%" />
+<img src="profile/top-langs.svg" width="70%" />
 
 </div>
 
